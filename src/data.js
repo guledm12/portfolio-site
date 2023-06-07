@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
+    title: "Digital Service Platform Application",
     subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A large-scale application which acts as an extensive productivity tool and incomporates various services, such as a task manager, glossary, and document parser.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/guledm12/DSP",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "NBA Hot Zone Tracker",
+    subtitle: "Python Application",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A program that utilizes pandas dataframes & matplotlib graphics to visually model NBA players’ shot charts while comparing them to their league average counterparts.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/guledm12/nba-player-hot-zones",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Fight Simulator",
+    subtitle: "Multi-threaded C Program",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A program that simulates a number of randomly executed fights between two groups of enemies and analyzes the results.",
     image: "./project-3.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "NBA Stat Comparator",
+    subtitle: "Python Application",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A pprogram which uses a tkinter GUI, pandas dataframes, & matplotlib graphics to graph statistical comparisons between two NBA players.",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/guledm12/nba-stat-comparator",
   },
 ];
 
@@ -51,10 +51,5 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Python", "JavaScript", "Java", "C", "C++", "C#", "Kotlin", "Swift"
 ];
