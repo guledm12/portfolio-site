@@ -1,36 +1,36 @@
 export const projects = [
   {
-    title: "Digital Service Platform Application",
-    subtitle: "MERN Stack",
-    description:
-      "A large-scale application which acts as an extensive productivity tool and incomporates various services, such as a task manager, glossary, and document parser.",
-    image: "./project-1.gif",
-    link: "https://github.com/guledm12/DSP",
-  },
-  {
     title: "NBA Hot Zone Tracker",
-    subtitle: "Python Application",
+    subtitle: "Python, Pandas, Matplotlib",
     description:
-      "A program that utilizes pandas dataframes & matplotlib graphics to visually model NBA players’ shot charts while comparing them to their league average counterparts.",
-    image: "./project-2.gif",
+      "App that retrieves statistics from NBA’s official API and models NBA players’ shot charts in a visual manner such that it simultaneously compares them to their league average counterparts.",
+    image: "./project-3.gif",
     link: "https://github.com/guledm12/nba-player-hot-zones",
   },
   {
-    title: "Fight Simulator",
-    subtitle: "Multi-threaded C Program",
+    title: "Reddit Search Client",
+    subtitle: "JavaScript, HTML, Bootstrap, Parcel.js",
     description:
-      "A program that simulates a number of randomly executed fights between two groups of enemies and analyzes the results.",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Web app that pulls out content from Reddit’s API, filters out data, displays posts, and links attachments that can correspondingly be found on the official site.",
+    image: "./project-2.gif",
+    link: "https://github.com/guledm12/reddit-client-search",
+  },
+  {
+    title: "Discord Bot",
+    subtitle: "C-Sharp, .NET",
+    description:
+      "Automated program that’ll respond to requests sent via private messages and execute a variety of different tasks.",
+    image: "./project-1.gif",
+    link: "https://github.com/guledm12/discord-bot",
   },
   {
     title: "NBA Stat Comparator",
-    subtitle: "Python Application",
+    subtitle: "Python, Tkinter, Pandas, Matplotlib",
     description:
-      "A pprogram which uses a tkinter GUI, pandas dataframes, & matplotlib graphics to graph statistical comparisons between two NBA players.",
+      "App that retrieves statistics from NBA’s official API and utilizes it to graph comparisons between two separate players.",
     image: "./project-4.gif",
     link: "https://github.com/guledm12/nba-stat-comparator",
-  },
+  }
 ];
 
 export const testimonials = [
