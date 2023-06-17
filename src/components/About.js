@@ -9,7 +9,7 @@ export default function About() {
             Hi, my name is Guled!
           </h1>
           <p className="mb-8 leading-relaxed">
-            I am currently a 4th-year computer science student who is passionate about working within the front-end, back-end, and cloud development fields.
+            I am currently a 4th-year computer science student who is passionate about learning and working in full-stack and cloud development fields.
           </p>
           <div className="flex justify-center">
             <a
